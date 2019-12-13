@@ -1,11 +1,11 @@
 {
-  "modid": 42190,
-  "name": "Fireball",	
-  "author": "Galxey",
-  "version": "1.0.1",
-  "fileid": 81795,
-  "fileurl": "https://mod.io/mods/file/81795",
-  "imageurl": "https://image.mod.io/mods/8a56/42190/mordhau_screenshot_2019.09.14_-_17.28.33.02.png",
-  "modpage": "https://mordhau.mod.io/fire-ball-fire-bomb",
+  "ModId": 42190,
+  "Name": "Fireball",	
+  "Author": "Galxey",
+  "Version": "1.0.1",
+  "FileId": 81795,
+  "FileUrl": "https://mod.io/mods/file/81795",
+  "ImageUrl": "https://image.mod.io/mods/8a56/42190/mordhau_screenshot_2019.09.14_-_17.28.33.02.png",
+  "ModPage": "https://mordhau.mod.io/fire-ball-fire-bomb",
   "Replaces": "Fire pot"
 }
