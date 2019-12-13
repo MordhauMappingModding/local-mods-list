@@ -1,11 +1,11 @@
 {
-  "modid": 42941,
-  "name": "Gladius Project",	
-  "author": "HowardHughes",
-  "version": "1.3.1",
-  "fileid": 81805,
-  "fileurl": "https://mod.io/mods/file/81805",
-  "imageurl": "https://image.mod.io/mods/4c41/42941/unknown.png",
-  "modpage": "https://mordhau.mod.io/gladius-project-13",
+  "ModId": 42941,
+  "Name": "Gladius Project",	
+  "Author": "HowardHughes",
+  "Version": "1.3.1",
+  "FileId": 81805,
+  "FileUrl": "https://mod.io/mods/file/81805",
+  "ImageUrl": "https://image.mod.io/mods/4c41/42941/unknown.png",
+  "ModPage": "https://mordhau.mod.io/gladius-project-13",
   "Replaces": "Arming Sword skins"
 }
