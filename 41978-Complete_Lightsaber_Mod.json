@@ -7,6 +7,6 @@
   "fileurl": "https://mod.io/mods/file/81790",
   "imageurl": "https://image.mod.io/mods/249e/41978/lightsabermod22.png",
   "modpage": "https://mordhau.mod.io/skin-complete-lightsaber-mod",
-  "Replaces": "bastard sword, executioner sword, and the spear",
+  "replaces": "bastard sword, executioner sword, and the spear",
   "info": "Make sure you turn bloom and post processing up to have the lightsaber glow."
 }
