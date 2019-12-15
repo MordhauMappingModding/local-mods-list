@@ -1,0 +1,11 @@
+{
+  "ModId": 44340,
+  "Name": "Fus Ro Dah on kick",	
+  "Author": "WardenDeusVult",
+  "Version": "1.0.1",
+  "FileId": 82784,
+  "FileUrl": "https://mod.io/mods/file/82784",
+  "ImageUrl": "https://image.mod.io/mods/e428/44340/desktop_screenshot_2019.09.29_-.png",
+  "ModPage": "https://mordhau.mod.io/audio-fus-ro-dah-on-kick",
+  "Replaces": "Kick hit sound"
+}
