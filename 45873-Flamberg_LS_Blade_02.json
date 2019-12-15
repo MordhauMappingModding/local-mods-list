@@ -1,0 +1,12 @@
+{
+  "ModId": 45873,
+  "Name": "Flamberg Longsword blade 02",	
+  "Author": "Partizan_Rusi",
+  "Version": "14",
+  "FileId": 77261,
+  "FileUrl": "https://mod.io/mods/file/77261",
+  "ImageUrl": "https://image.mod.io/mods/1d5e/45873/flamberg_2_2019.10.11_-_04.42.51.jpg",
+  "ModPage": "https://mordhau.mod.io/flamberg-longsword-blade-02",
+  "Replaces": "Replacing second blade for Longsword customization",
+  "Info": "Change grip to fix animation glitch"
+}

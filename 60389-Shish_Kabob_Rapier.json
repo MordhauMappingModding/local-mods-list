@@ -1,0 +1,12 @@
+{
+  "ModId": 60389,
+  "Name": "Shish Kabob Rapier",	
+  "Author": "Cswic",
+  "Version": "1.0.1",
+  "FileId": 82866,
+  "FileUrl": "https://mod.io/mods/file/82866",
+  "ImageUrl": "https://image.mod.io/mods/fb48/60389/shishkebab_1.PNG",
+  "ModPage": "https://mordhau.mod.io/shish-kabob-rapier-cosmetic-mod",
+  "Replaces": "For rapier",
+  "Info": "Body parts are clientside only so this effect is purely cosmetic, like a skin. Body part stay time matches ragdoll stay time / ragdoll limit."
+}

@@ -1,0 +1,15 @@
+{
+  "ModId": 45990,
+  "Name": "Roman Gallic Helmets",	
+  "Author": "N8ey96",
+  "Version": "1.0.1",
+  "FileId": 82823,
+  "FileUrl": "https://mod.io/mods/file/82823",
+  "ImageUrl": "https://image.mod.io/mods/7fe2/45990/gallic_helm.png",
+  "ModPage": "https://mordhau.mod.io/roman-gallic-helmet-for-sallet-helmets",
+  "Replaces": "
+    Sallet Raised Visor : Standard Gallic helm no plume /
+    Sallet : Gallic helm with coronal plume (Front to Back) /
+    Painted Sallet : Gallic helm with transverse plume (Left to right)
+"
+}

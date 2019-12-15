@@ -1,0 +1,14 @@
+{
+  "ModId": 59390,
+  "Name": "A58 Wallace Collection Barbute",	
+  "Author": "RobertoRavioli",
+  "Version": "1.1.0",
+  "FileId": 76797,
+  "FileUrl": "https://mod.io/mods/file/76797",
+  "ImageUrl": "https://image.mod.io/mods/7999/59390/preview.png",
+  "ModPage": "https://mordhau.mod.io/a58-wallace-collection-barbute",
+  "Replaces": "Barbute",
+  "Info": "Note: As usual, it clips with certain cosmetics such as the aventail or bishops mantle. This is mostly unavoidable, due to the dark magic that operates this game's code.
+
+Due to modding limitations, it doesn't support tint or roughness."
+}

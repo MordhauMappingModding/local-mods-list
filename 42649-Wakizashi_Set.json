@@ -1,0 +1,12 @@
+{
+  "ModId": 42649,
+  "Name": "Wakizashi Set",	
+  "Author": "MarysRevenge",
+  "Version": "1.2.0",
+  "FileId": 78983,
+  "FileUrl": "https://mod.io/mods/file/78983",
+  "ImageUrl": "https://image.mod.io/mods/40ea/42649/wakizashisetforfalchion.png",
+  "ModPage": "https://mordhau.mod.io/skin-wakizashi-set",
+  "Replaces": "Falchion",
+  "Info": "This Wakizashi set consists of 9 parts: 3 blade parts, 3 guard parts, 3 grip parts. There is also one guard that is invisible, this is not an error, it's just for a Wakizashi without guard"
+}

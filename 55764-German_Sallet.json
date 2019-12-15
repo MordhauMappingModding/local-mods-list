@@ -1,0 +1,14 @@
+{
+  "ModId": 55764,
+  "Name": "Late 15th Century German Sallet",	
+  "Author": "RobertoRavioli",
+  "Version": "1.1.0b",
+  "FileId": 76802,
+  "FileUrl": "https://mod.io/mods/file/76802",
+  "ImageUrl": "https://image.mod.io/mods/158f/55764/preview.png",
+  "ModPage": "https://mordhau.mod.io/late-15th-century-german-sallet",
+  "Replaces": "Sallet",
+  "Info": "Note: If you have freakish facial proportions or a massive chin, your face might clip through the front of the helmet. Also tends to clip with a lot of neck cosmetics, despite me trying my hardest to make them not to.
+
+Due to modding limitations, it doesn't support tint, roughness, or the painted sallets."
+}

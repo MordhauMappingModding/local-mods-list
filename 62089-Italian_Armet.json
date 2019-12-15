@@ -1,0 +1,13 @@
+{
+  "ModId": 62089,
+  "Name": "Italian Armet",	
+  "Author": "RobertoRavioli",
+  "Version": "1.1.0b",
+  "FileId": 76794,
+  "FileUrl": "https://mod.io/mods/file/76794",
+  "ImageUrl": "https://image.mod.io/mods/9d52/62089/preview_1_-_copy.png",
+  "ModPage": "https://mordhau.mod.io/italian-armet",
+  "Replaces": "Regular Armet",
+  "Info": "Note: This clips with literally everything because it isn't an actual cosmetic, no tint or roughness, yadda yadda etc.
+I'd like to go and fix some of the issues with the edges at some point. There's another version on the mod's page (with wrapper)."
+}
