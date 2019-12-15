@@ -1,0 +1,25 @@
+{
+  "ModId": 42398,
+  "Name": "Samourai Helmet + Facemask Set",	
+  "Author": "MarysRevenge",
+  "Version": "1.1.0",
+  "FileId": 78997,
+  "FileUrl": "https://mod.io/mods/file/78997",
+  "ImageUrl": "https://image.mod.io/mods/ad84/42398/samuraihelmetfacemask.1.png",
+  "ModPage": "https://mordhau.mod.io/skin-samurai-helmet-facemask-set",
+  "Replaces": "It replaces the following vanilla sallet's with the following ones:\n
+\n
+1. Black Helmet with red sewing (Replacement for the open sallet (armor 2))\n
+2. Red Helmet with black sewing (Replacement for the closed sallet (armor 2))\n
+3. White Helmet with black sewing (Replacement for the bevored sallet (armor 3))\n
+\n
+Also, this Set is replacing six neck equipment (slots) with six Facemask/ Strap combinations:
+(They are all available for each Helmet in armor tier 2-3)\n
+\n
+1. Black Facemask with red Detail + Helmet strap in red (Replacement for the Gorget)\n
+2. Helmet strap in red (Replacement for the Footsoldier Gorget)\n
+3. Red Facemask with black Detail + Helmet strap in black (Replacement for the Heavy Bevor)\n
+4. Helmet strap in black (Replacement for the Workers Hood Lowered)\n
+5. White Facemask with black Detail + Helmet strap in white (Replacement for the Wanderers Hood Lowered)\n
+6. Helmet strap in white (Replacement for the Cloth Coif Lowered)"
+}
