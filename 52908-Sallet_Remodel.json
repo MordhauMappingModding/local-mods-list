@@ -2,11 +2,11 @@
   "ModId": 52908,
   "Name": "Sallet remodel",	
   "Author": "RobertoRavioli",
-  "Version": "1.2.0",
-  "FileId": 76803,
-  "FileUrl": "https://mod.io/mods/file/76803",
-  "ImageUrl": "https://image.mod.io/mods/c801/52908/coverimage.png",
+  "Version": "1.2.1",
+  "FileId": 98140,
+  "FileUrl": "https://mod.io/mods/file/98140",
+  "ImageUrl": "https://image.mod.io/mods/c801/52908/filetypes.png",
   "ModPage": "https://mordhau.mod.io/sallet-remodel",
   "Replaces": "Sallet",
-  "Info": "The sallet is unaffected by armor tint or roughness, as previously stated due to modding limitations. It also clips with most cosmetics, but it works best with a gorget, hood, or a fur coif. Also, if you have a massive chin or nose, it can have issues with that too."
+  "Info": "The version on the MordhauBuddy app is the "SalletMod" one. Visit the mod's page to get other versions! The sallet is unaffected by armor tint or roughness, as previously stated due to modding limitations. It also clips with most cosmetics, but it works best with a gorget, hood, or a fur coif. Also, if you have a massive chin or nose, it can have issues with that too."
 }
